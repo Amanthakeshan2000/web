@@ -77,7 +77,7 @@ export default function Home() {
             </h1>
 
             <p className="text-lg md:text-xl text-gray-700 dark:text-gray-300 max-w-3xl mx-auto text-balance">
-              Simple, scalable, and secure authentication solution for modern applications. Integrate powerful registration and login functionality in minutes with our developer-friendly API. Enjoy enterprise-grade security, advanced features, and seamless scalability that grows with your business needs.
+              Simple, scalable, and secure authentication solution for modern applications. Integrate powerful registration and login functionality in minutes with our developer-friendly API.
             </p>
 
             <div className="flex flex-col sm:flex-row gap-4 justify-center items-center pt-4">
