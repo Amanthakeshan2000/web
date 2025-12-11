@@ -81,9 +81,9 @@ export default function Home() {
             </p>
 
             <div className="flex flex-col sm:flex-row gap-4 justify-center items-center pt-4">
-              <Button size="lg" className="gap-2 w-full sm:w-auto">
+              {/* <Button size="lg" className="gap-2 w-full sm:w-auto">
                 Request API Key
-              </Button>
+              </Button> */}
               {/* <Button size="lg" variant="outline" className="w-full sm:w-auto">
                 View Documentation
               </Button> */}

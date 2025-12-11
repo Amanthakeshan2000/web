@@ -42,12 +42,12 @@ export default function Navigation() {
           </div>
 
           {/* CTA Buttons */}
-          <div className="hidden md:flex items-center gap-3">
+          {/* <div className="hidden md:flex items-center gap-3">
             <Button variant="outline" size="sm">
               Sign In
             </Button>
             <Button size="sm">Request API Key</Button>
-          </div>
+          </div> */}
 
           {/* Mobile Menu Button */}
           <button onClick={() => setIsOpen(!isOpen)} className="md:hidden p-2" aria-label="Toggle menu">
@@ -68,12 +68,12 @@ export default function Navigation() {
                 {link.label}
               </Link>
             ))}
-            <div className="flex flex-col gap-2 pt-4 px-4">
+            {/* <div className="flex flex-col gap-2 pt-4 px-4">
               <Button variant="outline" className="w-full bg-transparent">
                 Sign In
               </Button>
               <Button className="w-full">Request API Key</Button>
-            </div>
+            </div> */}
           </div>
         )}
       </div>
