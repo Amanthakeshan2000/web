@@ -44,7 +44,7 @@ export default function ContactPage() {
                 <Mail className="w-6 h-6 text-primary" />
               </div>
               <h3 className="font-semibold mb-2">Email</h3>
-              <p className="text-muted-foreground">support@authapi.com</p>
+              <p className="text-muted-foreground">info@sureid.live</p>
               <p className="text-sm text-muted-foreground mt-2">We typically respond in 24 hours</p>
             </Card>
 

@@ -482,7 +482,7 @@ function DevelopersPage() {
                                                 }, this),
                                                 /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$api$2d$website$2d$structure__$28$1$292f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("pre", {
                                                     className: "bg-secondary text-secondary-foreground p-4 rounded-lg overflow-x-auto text-sm mb-6",
-                                                    children: `npm install @authapi/${sdk.toLowerCase()}`
+                                                    children: `npm install @SureID/${sdk.toLowerCase()}`
                                                 }, void 0, false, {
                                                     fileName: "[project]/Downloads/api-website-structure (1)/app/developers/page.tsx",
                                                     lineNumber: 86,
@@ -498,9 +498,9 @@ function DevelopersPage() {
                                                 }, this),
                                                 /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$api$2d$website$2d$structure__$28$1$292f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("pre", {
                                                     className: "bg-secondary text-secondary-foreground p-4 rounded-lg text-sm mb-6 overflow-x-auto",
-                                                    children: `const AuthAPI = require('@authapi/${sdk.toLowerCase()}');
+                                                    children: `const SureID = require('@SureID/${sdk.toLowerCase()}');
 
-const client = new AuthAPI({
+const client = new SureID({
   apiKey: 'your_api_key'
 });
 

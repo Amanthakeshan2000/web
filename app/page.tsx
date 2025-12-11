@@ -77,7 +77,7 @@ export default function Home() {
             </h1>
 
             <p className="text-lg md:text-xl text-gray-700 dark:text-gray-300 max-w-3xl mx-auto text-balance">
-              Simple, scalable, and secure authentication solution for modern applications. Integrate powerful registration and login functionality in minutes with our developer-friendly API.
+              Simple, scalable, and secure authentication solution for modern applications. Integrate powerful registration and login functionality in minutes with our developer-friendly API. Enjoy enterprise-grade security, advanced features, and seamless scalability that grows with your business needs.
             </p>
 
             <div className="flex flex-col sm:flex-row gap-4 justify-center items-center pt-4">
@@ -96,7 +96,7 @@ export default function Home() {
       <section className="py-16 md:py-24 bg-muted/30">
         <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
           <div className="text-center mb-12">
-            <h2 className="text-3xl md:text-4xl font-bold mb-4">Why Choose AuthAPI?</h2>
+            <h2 className="text-3xl md:text-4xl font-bold mb-4">Why Choose SureID?</h2>
             <p className="text-muted-foreground max-w-2xl mx-auto">Everything you need for secure user management</p>
           </div>
 
@@ -152,7 +152,7 @@ export default function Home() {
         <div className="max-w-3xl mx-auto px-4 sm:px-6 lg:px-8 text-center">
           <h2 className="text-3xl md:text-4xl font-bold mb-4">Ready to Get Started?</h2>
           <p className="text-lg opacity-90 mb-8">
-            Start integrating AuthAPI today and build secure authentication in minutes.
+            Start integrating SureID today and build secure authentication in minutes.
           </p>
           <div className="flex flex-col sm:flex-row gap-4 justify-center">
             {/* <Button size="lg" variant="secondary">
@@ -175,7 +175,7 @@ export default function Home() {
           <div className="text-center mb-12">
             <h2 className="text-3xl md:text-4xl font-bold text-gray-900 mb-4">Trusted by Developers Worldwide</h2>
             <p className="text-gray-600 max-w-2xl mx-auto">
-              Join thousands of developers and companies building secure authentication with AuthAPI
+              Join thousands of developers and companies building secure authentication with SureID
             </p>
           </div>
 

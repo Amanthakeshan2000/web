@@ -142,7 +142,7 @@ function Footer() {
                                             }, this),
                                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$api$2d$website$2d$structure__$28$1$292f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("span", {
                                                 className: "text-white",
-                                                children: "AuthAPI"
+                                                children: "SureID"
                                             }, void 0, false, {
                                                 fileName: "[project]/Downloads/api-website-structure (1)/components/footer.tsx",
                                                 lineNumber: 17,
@@ -373,7 +373,7 @@ function Footer() {
                         className: "border-t border-white/20 pt-8",
                         children: /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$api$2d$website$2d$structure__$28$1$292f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("p", {
                             className: "text-sm text-center text-white/70",
-                            children: "© 2025 AuthAPI. All rights reserved."
+                            children: "© 2025 SureID. All rights reserved."
                         }, void 0, false, {
                             fileName: "[project]/Downloads/api-website-structure (1)/components/footer.tsx",
                             lineNumber: 82,
@@ -423,7 +423,7 @@ var __TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$api$2d$website$
 ;
 ;
 const metadata = {
-    title: "AuthAPI - Secure User Authentication API",
+    title: "SureID - Secure User Authentication API",
     description: "Enterprise-grade, developer-friendly API for secure user authentication. Integrate registration & login in minutes.",
     generator: "v0.app"
 };

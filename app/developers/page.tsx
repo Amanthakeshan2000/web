@@ -84,14 +84,14 @@ export default function DevelopersPage() {
                 <Card className="p-8">
                   <p className="text-muted-foreground mb-6">Installation command:</p>
                   <pre className="bg-secondary text-secondary-foreground p-4 rounded-lg overflow-x-auto text-sm mb-6">
-                    {`npm install @authapi/${sdk.toLowerCase()}`}
+                    {`npm install @SureID/${sdk.toLowerCase()}`}
                   </pre>
 
                   <p className="text-muted-foreground mb-4">Quick example:</p>
                   <pre className="bg-secondary text-secondary-foreground p-4 rounded-lg text-sm mb-6 overflow-x-auto">
-                    {`const AuthAPI = require('@authapi/${sdk.toLowerCase()}');
+                    {`const SureID = require('@SureID/${sdk.toLowerCase()}');
 
-const client = new AuthAPI({
+const client = new SureID({
   apiKey: 'your_api_key'
 });
 

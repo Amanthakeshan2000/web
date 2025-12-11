@@ -14,7 +14,7 @@ export default function Footer() {
               <div className="w-6 h-6 bg-white/20 rounded-lg flex items-center justify-center text-white text-xs shadow-lg backdrop-blur-sm">
                 🔐
               </div>
-              <span className="text-white">AuthAPI</span>
+              <span className="text-white">SureID</span>
             </div>
             <p className="text-sm text-white/80">Enterprise-grade user authentication for developers.</p>
           </div>
@@ -79,7 +79,7 @@ export default function Footer() {
         </div>
 
         <div className="border-t border-white/20 pt-8">
-          <p className="text-sm text-center text-white/70">© 2025 AuthAPI. All rights reserved.</p>
+          <p className="text-sm text-center text-white/70">© 2025 SureID. All rights reserved.</p>
         </div>
       </div>
     </footer>

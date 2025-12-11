@@ -8,7 +8,7 @@ export default function AboutPage() {
       <section className="py-16 md:py-24 bg-muted/30">
         <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
           <div className="text-center max-w-3xl mx-auto">
-            <h1 className="text-4xl md:text-5xl font-bold mb-4">About AuthAPI</h1>
+            <h1 className="text-4xl md:text-5xl font-bold mb-4">About SureID</h1>
             <p className="text-lg text-muted-foreground">
               Empowering developers with secure, scalable authentication since 2023.
             </p>
@@ -32,7 +32,7 @@ export default function AboutPage() {
             <div>
               <h2 className="text-3xl md:text-4xl font-bold mb-6">Our Story</h2>
               <p className="text-lg text-muted-foreground mb-4">
-                AuthAPI was founded by developers frustrated with complex authentication systems. We set out to create
+                SureID was founded by developers frustrated with complex authentication systems. We set out to create
                 the simplest, most secure authentication API on the market.
               </p>
               <p className="text-lg text-muted-foreground mb-4">
@@ -88,7 +88,7 @@ export default function AboutPage() {
 
           <div className="space-y-8">
             {[
-              { year: "2023", title: "Launch", desc: "AuthAPI Beta launched with support for 5 languages" },
+              { year: "2023", title: "Launch", desc: "SureID Beta launched with support for 5 languages" },
               { year: "2024", title: "10K Users", desc: "Reached 10,000 active users, added support for 8 more SDKs" },
               { year: "2024", title: "Enterprise", desc: "Enterprise tier launched with dedicated support" },
               { year: "2025", title: "Global Scale", desc: "Now handling 100M+ API calls monthly" },

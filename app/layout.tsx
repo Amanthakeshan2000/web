@@ -10,7 +10,7 @@ const geist = Geist({ subsets: ["latin"] })
 const geistMono = Geist_Mono({ subsets: ["latin"] })
 
 export const metadata: Metadata = {
-  title: "AuthAPI - Secure User Authentication API",
+  title: "SureID - Secure User Authentication API",
   description:
     "Enterprise-grade, developer-friendly API for secure user authentication. Integrate registration & login in minutes.",
   generator: "v0.app",

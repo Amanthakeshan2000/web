@@ -151,7 +151,7 @@ function AboutPage() {
                         children: [
                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$api$2d$website$2d$structure__$28$1$292f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("h1", {
                                 className: "text-4xl md:text-5xl font-bold mb-4",
-                                children: "About AuthAPI"
+                                children: "About SureID"
                             }, void 0, false, {
                                 fileName: "[project]/Downloads/api-website-structure (1)/app/about/page.tsx",
                                 lineNumber: 11,
@@ -218,7 +218,7 @@ function AboutPage() {
                                     }, this),
                                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$api$2d$website$2d$structure__$28$1$292f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("p", {
                                         className: "text-lg text-muted-foreground mb-4",
-                                        children: "AuthAPI was founded by developers frustrated with complex authentication systems. We set out to create the simplest, most secure authentication API on the market."
+                                        children: "SureID was founded by developers frustrated with complex authentication systems. We set out to create the simplest, most secure authentication API on the market."
                                     }, void 0, false, {
                                         fileName: "[project]/Downloads/api-website-structure (1)/app/about/page.tsx",
                                         lineNumber: 34,
@@ -361,7 +361,7 @@ function AboutPage() {
                                 {
                                     year: "2023",
                                     title: "Launch",
-                                    desc: "AuthAPI Beta launched with support for 5 languages"
+                                    desc: "SureID Beta launched with support for 5 languages"
                                 },
                                 {
                                     year: "2024",

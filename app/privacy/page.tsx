@@ -7,7 +7,7 @@ export default function PrivacyPage() {
         <section>
           <h2 className="text-2xl font-bold text-foreground mb-4">1. Introduction</h2>
           <p>
-            AuthAPI ("we", "our", or "us") operates the AuthAPI website and services. This page informs you of our
+            SureID ("we", "our", or "us") operates the SureID website and services. This page informs you of our
             policies regarding the collection, use, and disclosure of personal data when you use our service and the
             choices you have associated with that data.
           </p>
@@ -28,7 +28,7 @@ export default function PrivacyPage() {
 
         <section>
           <h2 className="text-2xl font-bold text-foreground mb-4">3. Use of Data</h2>
-          <p>AuthAPI uses the collected data for various purposes:</p>
+          <p>SureID uses the collected data for various purposes:</p>
           <ul className="list-disc pl-6 space-y-2">
             <li>To provide and maintain our service</li>
             <li>To notify you about changes to our service</li>
@@ -58,7 +58,7 @@ export default function PrivacyPage() {
 
         <section>
           <h2 className="text-2xl font-bold text-foreground mb-4">6. Contact Us</h2>
-          <p>If you have any questions about this Privacy Policy, please contact us at privacy@authapi.com</p>
+          <p>If you have any questions about this Privacy Policy, please contact us at privacy@SureID.com</p>
         </section>
       </div>
     </div>

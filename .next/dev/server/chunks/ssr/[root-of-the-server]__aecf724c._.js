@@ -164,7 +164,7 @@ function Navigation() {
                                     lineNumber: 25,
                                     columnNumber: 13
                                 }, this),
-                                "AuthAPI"
+                                "SureID"
                             ]
                         }, void 0, true, {
                             fileName: "[project]/Downloads/api-website-structure (1)/components/navigation.tsx",

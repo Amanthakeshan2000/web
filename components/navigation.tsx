@@ -25,7 +25,7 @@ export default function Navigation() {
             <div className="w-8 h-8 bg-primary rounded-lg flex items-center justify-center text-primary-foreground">
               🔐
             </div>
-            AuthAPI
+            SureID
           </Link>
 
           {/* Desktop Navigation */}

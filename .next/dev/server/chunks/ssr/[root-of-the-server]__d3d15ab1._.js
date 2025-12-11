@@ -377,7 +377,7 @@ function Home() {
                             children: [
                                 /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$api$2d$website$2d$structure__$28$1$292f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("h2", {
                                     className: "text-3xl md:text-4xl font-bold mb-4",
-                                    children: "Why Choose AuthAPI?"
+                                    children: "Why Choose SureID?"
                                 }, void 0, false, {
                                     fileName: "[project]/Downloads/api-website-structure (1)/app/page.tsx",
                                     lineNumber: 99,
@@ -578,7 +578,7 @@ function Home() {
                         }, this),
                         /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$api$2d$website$2d$structure__$28$1$292f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("p", {
                             className: "text-lg opacity-90 mb-8",
-                            children: "Start integrating AuthAPI today and build secure authentication in minutes."
+                            children: "Start integrating SureID today and build secure authentication in minutes."
                         }, void 0, false, {
                             fileName: "[project]/Downloads/api-website-structure (1)/app/page.tsx",
                             lineNumber: 154,
@@ -630,7 +630,7 @@ function Home() {
                                 }, this),
                                 /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$api$2d$website$2d$structure__$28$1$292f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("p", {
                                     className: "text-gray-600 max-w-2xl mx-auto",
-                                    children: "Join thousands of developers and companies building secure authentication with AuthAPI"
+                                    children: "Join thousands of developers and companies building secure authentication with SureID"
                                 }, void 0, false, {
                                     fileName: "[project]/Downloads/api-website-structure (1)/app/page.tsx",
                                     lineNumber: 177,
