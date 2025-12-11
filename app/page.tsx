@@ -84,9 +84,9 @@ export default function Home() {
               <Button size="lg" className="gap-2 w-full sm:w-auto">
                 Request API Key
               </Button>
-              <Button size="lg" variant="outline" className="w-full sm:w-auto">
+              {/* <Button size="lg" variant="outline" className="w-full sm:w-auto">
                 View Documentation
-              </Button>
+              </Button> */}
             </div>
           </div>
         </div>

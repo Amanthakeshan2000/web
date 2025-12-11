@@ -57,14 +57,14 @@ export default function ContactPage() {
               <p className="text-sm text-muted-foreground mt-2">Available during business hours</p>
             </Card>
 
-            <Card className="p-8 text-center hover:shadow-lg transition-shadow">
+            {/* <Card className="p-8 text-center hover:shadow-lg transition-shadow">
               <div className="w-12 h-12 bg-primary/10 rounded-full flex items-center justify-center mx-auto mb-4">
                 <Phone className="w-6 h-6 text-primary" />
               </div>
               <h3 className="font-semibold mb-2">Phone</h3>
               <p className="text-muted-foreground">+1 (555) 123-4567</p>
               <p className="text-sm text-muted-foreground mt-2">Enterprise support available</p>
-            </Card>
+            </Card> */}
           </div>
 
           {/* Contact Form */}
@@ -131,7 +131,7 @@ export default function ContactPage() {
           <h2 className="text-3xl md:text-4xl font-bold mb-4">Need Quick Answers?</h2>
           <p className="text-muted-foreground mb-8">Check out our documentation and FAQ</p>
           <div className="flex flex-col sm:flex-row gap-4 justify-center">
-            <Button variant="outline">View Documentation</Button>
+            {/* <Button variant="outline">View Documentation</Button> */}
             <Button variant="outline">See FAQ</Button>
           </div>
         </div>
