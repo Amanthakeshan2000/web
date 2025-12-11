@@ -7,7 +7,14 @@ import { Card } from "@/components/ui/card"
 import { Button } from "@/components/ui/button"
 import { Input } from "@/components/ui/input"
 import { Textarea } from "@/components/ui/textarea"
-import { Mail, MessageSquare, Phone } from "lucide-react"
+import { Mail, MessageSquare, Phone, CheckCircle2 } from "lucide-react"
+import {
+  Dialog,
+  DialogContent,
+  DialogDescription,
+  DialogHeader,
+  DialogTitle,
+} from "@/components/ui/dialog"
 
 export default function ContactPage() {
   const [formData, setFormData] = useState({
@@ -16,10 +23,16 @@ export default function ContactPage() {
     subject: "",
     message: "",
   })
+  const [showSuccess, setShowSuccess] = useState(false)
 
   const handleSubmit = (e: React.FormEvent) => {
     e.preventDefault()
     console.log("Form submitted:", formData)
+    
+    // Show success dialog
+    setShowSuccess(true)
+    
+    // Clear form
     setFormData({ name: "", email: "", subject: "", message: "" })
   }
 
@@ -109,6 +122,26 @@ export default function ContactPage() {
           </div>
         </div>
       </section>
+
+      {/* Success Dialog */}
+      <Dialog open={showSuccess} onOpenChange={setShowSuccess}>
+        <DialogContent className="sm:max-w-md">
+          <DialogHeader className="text-center items-center">
+            <div className="w-16 h-16 bg-green-100 dark:bg-green-900/30 rounded-full flex items-center justify-center mx-auto mb-4">
+              <CheckCircle2 className="w-10 h-10 text-green-600 dark:text-green-500" />
+            </div>
+            <DialogTitle className="text-2xl">Message Sent Successfully!</DialogTitle>
+            <DialogDescription className="text-center text-base pt-2">
+              Thank you for reaching out to us. We've received your message and will get back to you within 24 hours.
+            </DialogDescription>
+          </DialogHeader>
+          <div className="flex justify-center pt-4">
+            <Button onClick={() => setShowSuccess(false)} className="px-8">
+              Close
+            </Button>
+          </div>
+        </DialogContent>
+      </Dialog>
     </>
   )
 }
