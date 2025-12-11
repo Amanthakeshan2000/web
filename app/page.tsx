@@ -58,10 +58,16 @@ export default function Home() {
     <>
       {/* Hero Section */}
       <section className="relative w-full h-screen overflow-hidden flex items-center justify-center">
-        {/* Smooth Light Blue Gradient Background */}
-        <div className="absolute inset-0 bg-gradient-to-br from-blue-50 via-blue-100/50 to-sky-100/30 dark:from-blue-950/20 dark:via-blue-900/10 dark:to-sky-900/5"></div>
-        <div className="absolute inset-0 bg-[radial-gradient(circle_at_top_right,rgba(147,197,253,0.3),transparent_50%)] dark:bg-[radial-gradient(circle_at_top_right,rgba(59,130,246,0.2),transparent_50%)]"></div>
-        <div className="absolute inset-0 bg-[radial-gradient(circle_at_bottom_left,rgba(186,230,253,0.3),transparent_50%)] dark:bg-[radial-gradient(circle_at_bottom_left,rgba(56,189,248,0.2),transparent_50%)]"></div>
+        {/* Background Image with opacity */}
+        <div 
+          className="absolute inset-0 bg-cover bg-center bg-no-repeat opacity-10"
+          style={{
+            backgroundImage: `url('https://media.licdn.com/dms/image/v2/D4E12AQGwb93QWyloRQ/article-cover_image-shrink_720_1280/article-cover_image-shrink_720_1280/0/1691386502549?e=2147483647&v=beta&t=CAn6ylvz9UdSYLaIrfHu8xBlJoUkkmw_krtoKBbT_Q4')`
+          }}
+        ></div>
+        
+        {/* Gradient background for better aesthetics */}
+        <div className="absolute inset-0 bg-gradient-to-br from-blue-50 via-blue-100/50 to-sky-100/30 dark:from-blue-950/20 dark:via-blue-900/10 dark:to-sky-900/5 -z-10"></div>
 
         <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 relative z-10 w-full">
           <div className="flex flex-col items-center justify-center text-center space-y-6 md:space-y-8">

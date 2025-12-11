@@ -40,17 +40,16 @@ export default function ContactPage() {
     <>
       {/* Hero */}
       <section className="relative py-16 md:py-24 overflow-hidden">
-        {/* Background Image with Opacity */}
+        {/* Background Image Layer */}
         <div 
-          className="absolute inset-0 bg-cover bg-center bg-no-repeat"
+          className="absolute inset-0 z-0 opacity-30 bg-cover bg-center bg-no-repeat"
           style={{
             backgroundImage: "url('https://media.licdn.com/dms/image/v2/D4E12AQGwb93QWyloRQ/article-cover_image-shrink_720_1280/article-cover_image-shrink_720_1280/0/1691386502549?e=2147483647&v=beta&t=CAn6ylvz9UdSYLaIrfHu8xBlJoUkkmw_krtoKBbT_Q4')",
-            opacity: 0.3,
           }}
         />
         
-        {/* Overlay for better text readability */}
-        <div className="absolute inset-0 bg-background/50" />
+        {/* Background color layer */}
+        <div className="absolute inset-0 z-[1] bg-muted/30" />
         
         {/* Content */}
         <div className="relative z-10 max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 text-center">
