@@ -1,104 +1,925 @@
-[00:00:03.776] Server  LOG      ✓ Ready in 3.3s
-[00:00:10.616] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
-[00:00:11.230] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
-[00:00:11.460] Browser LOG     %c[Vercel Web Analytics]%c Debug mode is enabled by default in development. No requests will be sent to the server. color: rgb(120, 120, 120) color: inherit
-[00:00:11.461] Browser LOG     %c[Vercel Web Analytics]%c Running queued event color: rgb(120, 120, 120) color: inherit pageview {"path":"/","route":"/"}
-[00:00:11.461] Browser LOG     %c[Vercel Web Analytics]%c [pageview] http://localhost:3000/ color: rgb(120, 120, 120) color: inherit {"dp":"/","o":"http://localhost:3000/","r":"","sdkn":"@vercel/analytics/next","sdkv":"1.6.1","sv":"0.1.3","ts":1765433893536}
-[00:00:11.819] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
-[00:00:11.945] Browser LOG     %c[Vercel Web Analytics]%c Debug mode is enabled by default in development. No requests will be sent to the server. color: rgb(120, 120, 120) color: inherit
-[00:00:11.945] Browser LOG     %c[Vercel Web Analytics]%c Running queued event color: rgb(120, 120, 120) color: inherit pageview {"path":"/","route":"/"}
-[00:00:11.945] Browser LOG     %c[Vercel Web Analytics]%c [pageview] http://localhost:3000/ color: rgb(120, 120, 120) color: inherit {"dp":"/","o":"http://localhost:3000/","r":"","sdkn":"@vercel/analytics/next","sdkv":"1.6.1","sv":"0.1.3","ts":1765433894021}
-[00:00:52.386] Server  LOG      ✓ Compiled in 175ms
-[00:01:09.680] Server  LOG      ✓ Compiled in 143ms
-[00:02:01.738] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
-[00:02:01.889] Browser LOG     %c[Vercel Web Analytics]%c Debug mode is enabled by default in development. No requests will be sent to the server. color: rgb(120, 120, 120) color: inherit
-[00:02:01.889] Browser LOG     %c[Vercel Web Analytics]%c Running queued event color: rgb(120, 120, 120) color: inherit pageview {"path":"/","route":"/"}
-[00:02:01.889] Browser LOG     %c[Vercel Web Analytics]%c [pageview] http://localhost:3000/ color: rgb(120, 120, 120) color: inherit {"dp":"/","o":"http://localhost:3000/","r":"","sdkn":"@vercel/analytics/next","sdkv":"1.6.1","sv":"0.1.3","ts":1765434003966}
-[00:03:04.548] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
-[00:03:04.804] Browser LOG     %c[Vercel Web Analytics]%c Debug mode is enabled by default in development. No requests will be sent to the server. color: rgb(120, 120, 120) color: inherit
-[00:03:04.804] Browser LOG     %c[Vercel Web Analytics]%c Running queued event color: rgb(120, 120, 120) color: inherit pageview {"path":"/","route":"/"}
-[00:03:04.804] Browser LOG     %c[Vercel Web Analytics]%c [pageview] http://localhost:3000/ color: rgb(120, 120, 120) color: inherit {"dp":"/","o":"http://localhost:3000/","r":"","sdkn":"@vercel/analytics/next","sdkv":"1.6.1","sv":"0.1.3","ts":1765434066881}
-[00:03:08.331] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
-[00:03:08.681] Browser LOG     %c[Vercel Web Analytics]%c Debug mode is enabled by default in development. No requests will be sent to the server. color: rgb(120, 120, 120) color: inherit
-[00:03:08.681] Browser LOG     %c[Vercel Web Analytics]%c Running queued event color: rgb(120, 120, 120) color: inherit pageview {"path":"/","route":"/"}
-[00:03:08.681] Browser LOG     %c[Vercel Web Analytics]%c [pageview] http://localhost:3000/ color: rgb(120, 120, 120) color: inherit {"dp":"/","o":"http://localhost:3000/","r":"","sdkn":"@vercel/analytics/next","sdkv":"1.6.1","sv":"0.1.3","ts":1765434070683}
-[00:03:13.450] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
-[00:03:13.671] Browser LOG     %c[Vercel Web Analytics]%c Debug mode is enabled by default in development. No requests will be sent to the server. color: rgb(120, 120, 120) color: inherit
-[00:03:13.671] Browser LOG     %c[Vercel Web Analytics]%c Running queued event color: rgb(120, 120, 120) color: inherit pageview {"path":"/","route":"/"}
-[00:03:13.671] Browser LOG     %c[Vercel Web Analytics]%c [pageview] http://localhost:3000/ color: rgb(120, 120, 120) color: inherit {"dp":"/","o":"http://localhost:3000/","r":"","sdkn":"@vercel/analytics/next","sdkv":"1.6.1","sv":"0.1.3","ts":1765434075746}
-[00:03:17.576] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
-[00:03:17.822] Browser LOG     %c[Vercel Web Analytics]%c Debug mode is enabled by default in development. No requests will be sent to the server. color: rgb(120, 120, 120) color: inherit
-[00:03:17.822] Browser LOG     %c[Vercel Web Analytics]%c Running queued event color: rgb(120, 120, 120) color: inherit pageview {"path":"/","route":"/"}
-[00:03:17.822] Browser LOG     %c[Vercel Web Analytics]%c [pageview] http://localhost:3000/ color: rgb(120, 120, 120) color: inherit {"dp":"/","o":"http://localhost:3000/","r":"","sdkn":"@vercel/analytics/next","sdkv":"1.6.1","sv":"0.1.3","ts":1765434079898}
-[00:03:18.814] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
-[00:03:19.087] Browser LOG     %c[Vercel Web Analytics]%c Debug mode is enabled by default in development. No requests will be sent to the server. color: rgb(120, 120, 120) color: inherit
-[00:03:19.087] Browser LOG     %c[Vercel Web Analytics]%c Running queued event color: rgb(120, 120, 120) color: inherit pageview {"path":"/","route":"/"}
-[00:03:19.087] Browser LOG     %c[Vercel Web Analytics]%c [pageview] http://localhost:3000/ color: rgb(120, 120, 120) color: inherit {"dp":"/","o":"http://localhost:3000/","r":"","sdkn":"@vercel/analytics/next","sdkv":"1.6.1","sv":"0.1.3","ts":1765434081162}
-[00:03:20.230] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
-[00:03:20.546] Browser LOG     %c[Vercel Web Analytics]%c Debug mode is enabled by default in development. No requests will be sent to the server. color: rgb(120, 120, 120) color: inherit
-[00:03:20.546] Browser LOG     %c[Vercel Web Analytics]%c Running queued event color: rgb(120, 120, 120) color: inherit pageview {"path":"/","route":"/"}
-[00:03:20.546] Browser LOG     %c[Vercel Web Analytics]%c [pageview] http://localhost:3000/ color: rgb(120, 120, 120) color: inherit {"dp":"/","o":"http://localhost:3000/","r":"","sdkn":"@vercel/analytics/next","sdkv":"1.6.1","sv":"0.1.3","ts":1765434082618}
-[00:03:21.234] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
-[00:03:21.494] Browser LOG     %c[Vercel Web Analytics]%c Debug mode is enabled by default in development. No requests will be sent to the server. color: rgb(120, 120, 120) color: inherit
-[00:03:21.494] Browser LOG     %c[Vercel Web Analytics]%c Running queued event color: rgb(120, 120, 120) color: inherit pageview {"path":"/","route":"/"}
-[00:03:21.494] Browser LOG     %c[Vercel Web Analytics]%c [pageview] http://localhost:3000/ color: rgb(120, 120, 120) color: inherit {"dp":"/","o":"http://localhost:3000/","r":"","sdkn":"@vercel/analytics/next","sdkv":"1.6.1","sv":"0.1.3","ts":1765434083569}
-[00:03:22.198] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
-[00:03:22.371] Browser LOG     %c[Vercel Web Analytics]%c Debug mode is enabled by default in development. No requests will be sent to the server. color: rgb(120, 120, 120) color: inherit
-[00:03:22.371] Browser LOG     %c[Vercel Web Analytics]%c Running queued event color: rgb(120, 120, 120) color: inherit pageview {"path":"/","route":"/"}
-[00:03:22.371] Browser LOG     %c[Vercel Web Analytics]%c [pageview] http://localhost:3000/ color: rgb(120, 120, 120) color: inherit {"dp":"/","o":"http://localhost:3000/","r":"","sdkn":"@vercel/analytics/next","sdkv":"1.6.1","sv":"0.1.3","ts":1765434084443}
-[00:03:24.732] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
-[00:03:24.939] Browser LOG     %c[Vercel Web Analytics]%c Debug mode is enabled by default in development. No requests will be sent to the server. color: rgb(120, 120, 120) color: inherit
-[00:03:24.939] Browser LOG     %c[Vercel Web Analytics]%c Running queued event color: rgb(120, 120, 120) color: inherit pageview {"path":"/","route":"/"}
-[00:03:24.939] Browser LOG     %c[Vercel Web Analytics]%c [pageview] http://localhost:3000/ color: rgb(120, 120, 120) color: inherit {"dp":"/","o":"http://localhost:3000/","r":"","sdkn":"@vercel/analytics/next","sdkv":"1.6.1","sv":"0.1.3","ts":1765434086992}
-[00:03:25.628] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
-[00:03:25.826] Browser LOG     %c[Vercel Web Analytics]%c Debug mode is enabled by default in development. No requests will be sent to the server. color: rgb(120, 120, 120) color: inherit
-[00:03:25.826] Browser LOG     %c[Vercel Web Analytics]%c Running queued event color: rgb(120, 120, 120) color: inherit pageview {"path":"/","route":"/"}
-[00:03:25.826] Browser LOG     %c[Vercel Web Analytics]%c [pageview] http://localhost:3000/ color: rgb(120, 120, 120) color: inherit {"dp":"/","o":"http://localhost:3000/","r":"","sdkn":"@vercel/analytics/next","sdkv":"1.6.1","sv":"0.1.3","ts":1765434087891}
-[00:03:26.482] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
-[00:03:26.680] Browser LOG     %c[Vercel Web Analytics]%c Debug mode is enabled by default in development. No requests will be sent to the server. color: rgb(120, 120, 120) color: inherit
-[00:03:26.680] Browser LOG     %c[Vercel Web Analytics]%c Running queued event color: rgb(120, 120, 120) color: inherit pageview {"path":"/","route":"/"}
-[00:03:26.680] Browser LOG     %c[Vercel Web Analytics]%c [pageview] http://localhost:3000/ color: rgb(120, 120, 120) color: inherit {"dp":"/","o":"http://localhost:3000/","r":"","sdkn":"@vercel/analytics/next","sdkv":"1.6.1","sv":"0.1.3","ts":1765434088757}
-[00:03:27.188] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
-[00:03:27.465] Browser LOG     %c[Vercel Web Analytics]%c Debug mode is enabled by default in development. No requests will be sent to the server. color: rgb(120, 120, 120) color: inherit
-[00:03:27.465] Browser LOG     %c[Vercel Web Analytics]%c Running queued event color: rgb(120, 120, 120) color: inherit pageview {"path":"/","route":"/"}
-[00:03:27.465] Browser LOG     %c[Vercel Web Analytics]%c [pageview] http://localhost:3000/ color: rgb(120, 120, 120) color: inherit {"dp":"/","o":"http://localhost:3000/","r":"","sdkn":"@vercel/analytics/next","sdkv":"1.6.1","sv":"0.1.3","ts":1765434089532}
-[00:03:28.067] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
-[00:03:28.357] Browser LOG     %c[Vercel Web Analytics]%c Debug mode is enabled by default in development. No requests will be sent to the server. color: rgb(120, 120, 120) color: inherit
-[00:03:28.357] Browser LOG     %c[Vercel Web Analytics]%c Running queued event color: rgb(120, 120, 120) color: inherit pageview {"path":"/","route":"/"}
-[00:03:28.357] Browser LOG     %c[Vercel Web Analytics]%c [pageview] http://localhost:3000/ color: rgb(120, 120, 120) color: inherit {"dp":"/","o":"http://localhost:3000/","r":"","sdkn":"@vercel/analytics/next","sdkv":"1.6.1","sv":"0.1.3","ts":1765434090430}
-[00:03:28.822] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
-[00:03:28.999] Browser LOG     %c[Vercel Web Analytics]%c Debug mode is enabled by default in development. No requests will be sent to the server. color: rgb(120, 120, 120) color: inherit
-[00:03:28.999] Browser LOG     %c[Vercel Web Analytics]%c Running queued event color: rgb(120, 120, 120) color: inherit pageview {"path":"/","route":"/"}
-[00:03:28.999] Browser LOG     %c[Vercel Web Analytics]%c [pageview] http://localhost:3000/ color: rgb(120, 120, 120) color: inherit {"dp":"/","o":"http://localhost:3000/","r":"","sdkn":"@vercel/analytics/next","sdkv":"1.6.1","sv":"0.1.3","ts":1765434091056}
-[00:03:29.920] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
-[00:03:30.105] Browser LOG     %c[Vercel Web Analytics]%c Debug mode is enabled by default in development. No requests will be sent to the server. color: rgb(120, 120, 120) color: inherit
-[00:03:30.106] Browser LOG     %c[Vercel Web Analytics]%c Running queued event color: rgb(120, 120, 120) color: inherit pageview {"path":"/","route":"/"}
-[00:03:30.106] Browser LOG     %c[Vercel Web Analytics]%c [pageview] http://localhost:3000/ color: rgb(120, 120, 120) color: inherit {"dp":"/","o":"http://localhost:3000/","r":"","sdkn":"@vercel/analytics/next","sdkv":"1.6.1","sv":"0.1.3","ts":1765434092099}
-[00:03:30.706] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
-[00:03:31.020] Browser LOG     %c[Vercel Web Analytics]%c Debug mode is enabled by default in development. No requests will be sent to the server. color: rgb(120, 120, 120) color: inherit
-[00:03:31.020] Browser LOG     %c[Vercel Web Analytics]%c Running queued event color: rgb(120, 120, 120) color: inherit pageview {"path":"/","route":"/"}
-[00:03:31.020] Browser LOG     %c[Vercel Web Analytics]%c [pageview] http://localhost:3000/ color: rgb(120, 120, 120) color: inherit {"dp":"/","o":"http://localhost:3000/","r":"","sdkn":"@vercel/analytics/next","sdkv":"1.6.1","sv":"0.1.3","ts":1765434093096}
-[00:03:31.461] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
-[00:03:31.646] Browser LOG     %c[Vercel Web Analytics]%c Debug mode is enabled by default in development. No requests will be sent to the server. color: rgb(120, 120, 120) color: inherit
-[00:03:31.646] Browser LOG     %c[Vercel Web Analytics]%c Running queued event color: rgb(120, 120, 120) color: inherit pageview {"path":"/","route":"/"}
-[00:03:31.647] Browser LOG     %c[Vercel Web Analytics]%c [pageview] http://localhost:3000/ color: rgb(120, 120, 120) color: inherit {"dp":"/","o":"http://localhost:3000/","r":"","sdkn":"@vercel/analytics/next","sdkv":"1.6.1","sv":"0.1.3","ts":1765434093700}
-[00:03:32.384] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
-[00:03:32.565] Browser LOG     %c[Vercel Web Analytics]%c Debug mode is enabled by default in development. No requests will be sent to the server. color: rgb(120, 120, 120) color: inherit
-[00:03:32.565] Browser LOG     %c[Vercel Web Analytics]%c Running queued event color: rgb(120, 120, 120) color: inherit pageview {"path":"/","route":"/"}
-[00:03:32.565] Browser LOG     %c[Vercel Web Analytics]%c [pageview] http://localhost:3000/ color: rgb(120, 120, 120) color: inherit {"dp":"/","o":"http://localhost:3000/","r":"","sdkn":"@vercel/analytics/next","sdkv":"1.6.1","sv":"0.1.3","ts":1765434094641}
-[00:03:33.341] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
-[00:03:33.503] Browser LOG     %c[Vercel Web Analytics]%c Debug mode is enabled by default in development. No requests will be sent to the server. color: rgb(120, 120, 120) color: inherit
-[00:03:33.503] Browser LOG     %c[Vercel Web Analytics]%c Running queued event color: rgb(120, 120, 120) color: inherit pageview {"path":"/","route":"/"}
-[00:03:33.503] Browser LOG     %c[Vercel Web Analytics]%c [pageview] http://localhost:3000/ color: rgb(120, 120, 120) color: inherit {"dp":"/","o":"http://localhost:3000/","r":"","sdkn":"@vercel/analytics/next","sdkv":"1.6.1","sv":"0.1.3","ts":1765434095553}
-[00:03:40.694] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
-[00:03:40.967] Browser LOG     %c[Vercel Web Analytics]%c Debug mode is enabled by default in development. No requests will be sent to the server. color: rgb(120, 120, 120) color: inherit
-[00:03:40.967] Browser LOG     %c[Vercel Web Analytics]%c Running queued event color: rgb(120, 120, 120) color: inherit pageview {"path":"/","route":"/"}
-[00:03:40.967] Browser LOG     %c[Vercel Web Analytics]%c [pageview] http://localhost:3000/ color: rgb(120, 120, 120) color: inherit {"dp":"/","o":"http://localhost:3000/","r":"","sdkn":"@vercel/analytics/next","sdkv":"1.6.1","sv":"0.1.3","ts":1765434103044}
-[00:05:05.243] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
-[00:05:05.486] Browser LOG     %c[Vercel Web Analytics]%c Debug mode is enabled by default in development. No requests will be sent to the server. color: rgb(120, 120, 120) color: inherit
-[00:05:05.486] Browser LOG     %c[Vercel Web Analytics]%c Running queued event color: rgb(120, 120, 120) color: inherit pageview {"path":"/","route":"/"}
-[00:05:05.486] Browser LOG     %c[Vercel Web Analytics]%c [pageview] http://localhost:3000/ color: rgb(120, 120, 120) color: inherit {"dp":"/","o":"http://localhost:3000/","r":"","sdkn":"@vercel/analytics/next","sdkv":"1.6.1","sv":"0.1.3","ts":1765434187562}
-[00:05:53.654] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
-[00:05:53.885] Browser LOG     %c[Vercel Web Analytics]%c Debug mode is enabled by default in development. No requests will be sent to the server. color: rgb(120, 120, 120) color: inherit
-[00:05:53.886] Browser LOG     %c[Vercel Web Analytics]%c Running queued event color: rgb(120, 120, 120) color: inherit pageview {"path":"/","route":"/"}
-[00:05:53.886] Browser LOG     %c[Vercel Web Analytics]%c [pageview] http://localhost:3000/ color: rgb(120, 120, 120) color: inherit {"dp":"/","o":"http://localhost:3000/","r":"","sdkn":"@vercel/analytics/next","sdkv":"1.6.1","sv":"0.1.3","ts":1765434235961}
+[00:00:03.504] Server  LOG      ✓ Ready in 2.8s
+[00:00:08.085] Server  LOG      ○ Compiling / ...
+[00:00:10.271] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:00:10.661] Browser LOG     %c[Vercel Web Analytics]%c Debug mode is enabled by default in development. No requests will be sent to the server. color: rgb(120, 120, 120) color: inherit
+[00:00:10.661] Browser LOG     %c[Vercel Web Analytics]%c Running queued event color: rgb(120, 120, 120) color: inherit pageview {"path":"/","route":"/"}
+[00:00:10.661] Browser LOG     %c[Vercel Web Analytics]%c [pageview] http://localhost:3000/ color: rgb(120, 120, 120) color: inherit {"dp":"/","o":"http://localhost:3000/","r":"","sdkn":"@vercel/analytics/next","sdkv":"1.6.1","sv":"0.1.3","ts":1765435180296}
+[00:00:19.629] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:00:19.891] Browser LOG     %c[Vercel Web Analytics]%c Debug mode is enabled by default in development. No requests will be sent to the server. color: rgb(120, 120, 120) color: inherit
+[00:00:19.891] Browser LOG     %c[Vercel Web Analytics]%c Running queued event color: rgb(120, 120, 120) color: inherit pageview {"path":"/","route":"/"}
+[00:00:19.892] Browser LOG     %c[Vercel Web Analytics]%c [pageview] http://localhost:3000/ color: rgb(120, 120, 120) color: inherit {"dp":"/","o":"http://localhost:3000/","r":"","sdkn":"@vercel/analytics/next","sdkv":"1.6.1","sv":"0.1.3","ts":1765435189525}
+[00:00:24.753] Server  LOG      ○ Compiling /_not-found/page ...
+[00:00:25.227] Server  ERROR    ⨯ ./Downloads/New folder (4)/app/contact/page.tsx:18:1
+Module not found: Can't resolve 'react-google-recaptcha'
+  16 |   DialogTitle,
+  17 | } from "@/components/ui/dialog"
+> 18 | import ReCAPTCHA from "react-google-recaptcha"
+     | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  19 |
+  20 | export default function ContactPage() {
+  21 |   const [formData, setFormData] = useState({
+
+
+
+Import traces:
+  Client Component Browser:
+    ./Downloads/New folder (4)/app/contact/page.tsx [Client Component Browser]
+    ./Downloads/New folder (4)/app/contact/page.tsx [Server Component]
+
+  Client Component SSR:
+    ./Downloads/New folder (4)/app/contact/page.tsx [Client Component SSR]
+    ./Downloads/New folder (4)/app/contact/page.tsx [Server Component]
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[00:00:25.351] Browser ERROR   ./Downloads/New folder (4)/app/contact/page.tsx:18:1
+Module not found: Can't resolve 'react-google-recaptcha'
+  16 |   DialogTitle,
+  17 | } from "@/components/ui/dialog"
+> 18 | import ReCAPTCHA from "react-google-recaptcha"
+     | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  19 |
+  20 | export default function ContactPage() {
+  21 |   const [formData, setFormData] = useState({
+
+Import traces:
+  Client Component Browser:
+    ./Downloads/New folder (4)/app/contact/page.tsx [Client Component Browser]
+    ./Downloads/New folder (4)/app/contact/page.tsx [Server Component]
+
+  Client Component SSR:
+    ./Downloads/New folder (4)/app/contact/page.tsx [Client Component SSR]
+    ./Downloads/New folder (4)/app/contact/page.tsx [Server Component]
+
+https://nextjs.org/docs/messages/module-not-found
+[00:00:26.060] Browser ERROR   ./Downloads/New folder (4)/app/contact/page.tsx:18:1
+Module not found: Can't resolve 'react-google-recaptcha'
+  16 |   DialogTitle,
+  17 | } from "@/components/ui/dialog"
+> 18 | import ReCAPTCHA from "react-google-recaptcha"
+     | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  19 |
+  20 | export default function ContactPage() {
+  21 |   const [formData, setFormData] = useState({
+
+Import traces:
+  Client Component Browser:
+    ./Downloads/New folder (4)/app/contact/page.tsx [Client Component Browser]
+    ./Downloads/New folder (4)/app/contact/page.tsx [Server Component]
+
+  Client Component SSR:
+    ./Downloads/New folder (4)/app/contact/page.tsx [Client Component SSR]
+    ./Downloads/New folder (4)/app/contact/page.tsx [Server Component]
+
+https://nextjs.org/docs/messages/module-not-found
+[00:00:26.183] Browser ERROR   ./Downloads/New folder (4)/app/contact/page.tsx:18:1
+Module not found: Can't resolve 'react-google-recaptcha'
+  16 |   DialogTitle,
+  17 | } from "@/components/ui/dialog"
+> 18 | import ReCAPTCHA from "react-google-recaptcha"
+     | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  19 |
+  20 | export default function ContactPage() {
+  21 |   const [formData, setFormData] = useState({
+
+Import traces:
+  Client Component Browser:
+    ./Downloads/New folder (4)/app/contact/page.tsx [Client Component Browser]
+    ./Downloads/New folder (4)/app/contact/page.tsx [Server Component]
+
+  Client Component SSR:
+    ./Downloads/New folder (4)/app/contact/page.tsx [Client Component SSR]
+    ./Downloads/New folder (4)/app/contact/page.tsx [Server Component]
+
+https://nextjs.org/docs/messages/module-not-found
+[00:00:26.752] Browser ERROR   ./Downloads/New folder (4)/app/contact/page.tsx:18:1
+Module not found: Can't resolve 'react-google-recaptcha'
+  16 |   DialogTitle,
+  17 | } from "@/components/ui/dialog"
+> 18 | import ReCAPTCHA from "react-google-recaptcha"
+     | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  19 |
+  20 | export default function ContactPage() {
+  21 |   const [formData, setFormData] = useState({
+
+Import traces:
+  Client Component Browser:
+    ./Downloads/New folder (4)/app/contact/page.tsx [Client Component Browser]
+    ./Downloads/New folder (4)/app/contact/page.tsx [Server Component]
+
+  Client Component SSR:
+    ./Downloads/New folder (4)/app/contact/page.tsx [Client Component SSR]
+    ./Downloads/New folder (4)/app/contact/page.tsx [Server Component]
+
+https://nextjs.org/docs/messages/module-not-found
+[00:00:26.752] Browser ERROR   ./Downloads/New folder (4)/app/contact/page.tsx:18:1
+Module not found: Can't resolve 'react-google-recaptcha'
+  16 |   DialogTitle,
+  17 | } from "@/components/ui/dialog"
+> 18 | import ReCAPTCHA from "react-google-recaptcha"
+     | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  19 |
+  20 | export default function ContactPage() {
+  21 |   const [formData, setFormData] = useState({
+
+Import traces:
+  Client Component Browser:
+    ./Downloads/New folder (4)/app/contact/page.tsx [Client Component Browser]
+    ./Downloads/New folder (4)/app/contact/page.tsx [Server Component]
+
+  Client Component SSR:
+    ./Downloads/New folder (4)/app/contact/page.tsx [Client Component SSR]
+    ./Downloads/New folder (4)/app/contact/page.tsx [Server Component]
+
+https://nextjs.org/docs/messages/module-not-found
+[00:00:26.752] Browser ERROR   ./Downloads/New folder (4)/app/contact/page.tsx:18:1
+Module not found: Can't resolve 'react-google-recaptcha'
+  16 |   DialogTitle,
+  17 | } from "@/components/ui/dialog"
+> 18 | import ReCAPTCHA from "react-google-recaptcha"
+     | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  19 |
+  20 | export default function ContactPage() {
+  21 |   const [formData, setFormData] = useState({
+
+Import traces:
+  Client Component Browser:
+    ./Downloads/New folder (4)/app/contact/page.tsx [Client Component Browser]
+    ./Downloads/New folder (4)/app/contact/page.tsx [Server Component]
+
+  Client Component SSR:
+    ./Downloads/New folder (4)/app/contact/page.tsx [Client Component SSR]
+    ./Downloads/New folder (4)/app/contact/page.tsx [Server Component]
+
+https://nextjs.org/docs/messages/module-not-found
+[00:00:26.773] Server  ERROR    ⨯ ./Downloads/New folder (4)/app/contact/page.tsx:18:1
+Module not found: Can't resolve 'react-google-recaptcha'
+  16 |   DialogTitle,
+  17 | } from "@/components/ui/dialog"
+> 18 | import ReCAPTCHA from "react-google-recaptcha"
+     | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  19 |
+  20 | export default function ContactPage() {
+  21 |   const [formData, setFormData] = useState({
+
+
+
+Import traces:
+  Client Component Browser:
+    ./Downloads/New folder (4)/app/contact/page.tsx [Client Component Browser]
+    ./Downloads/New folder (4)/app/contact/page.tsx [Server Component]
+
+  Client Component SSR:
+    ./Downloads/New folder (4)/app/contact/page.tsx [Client Component SSR]
+    ./Downloads/New folder (4)/app/contact/page.tsx [Server Component]
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[00:00:26.811] Browser ERROR   ./Downloads/New folder (4)/app/contact/page.tsx:18:1
+Module not found: Can't resolve 'react-google-recaptcha'
+  16 |   DialogTitle,
+  17 | } from "@/components/ui/dialog"
+> 18 | import ReCAPTCHA from "react-google-recaptcha"
+     | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  19 |
+  20 | export default function ContactPage() {
+  21 |   const [formData, setFormData] = useState({
+
+Import traces:
+  Client Component Browser:
+    ./Downloads/New folder (4)/app/contact/page.tsx [Client Component Browser]
+    ./Downloads/New folder (4)/app/contact/page.tsx [Server Component]
+
+  Client Component SSR:
+    ./Downloads/New folder (4)/app/contact/page.tsx [Client Component SSR]
+    ./Downloads/New folder (4)/app/contact/page.tsx [Server Component]
+
+https://nextjs.org/docs/messages/module-not-found
+[00:00:26.915] Server  ERROR    ⨯ ./Downloads/New folder (4)/app/contact/page.tsx:18:1
+Module not found: Can't resolve 'react-google-recaptcha'
+  16 |   DialogTitle,
+  17 | } from "@/components/ui/dialog"
+> 18 | import ReCAPTCHA from "react-google-recaptcha"
+     | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  19 |
+  20 | export default function ContactPage() {
+  21 |   const [formData, setFormData] = useState({
+
+
+
+Import traces:
+  Client Component Browser:
+    ./Downloads/New folder (4)/app/contact/page.tsx [Client Component Browser]
+    ./Downloads/New folder (4)/app/contact/page.tsx [Server Component]
+
+  Client Component SSR:
+    ./Downloads/New folder (4)/app/contact/page.tsx [Client Component SSR]
+    ./Downloads/New folder (4)/app/contact/page.tsx [Server Component]
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[00:00:26.920] Browser ERROR   ./Downloads/New folder (4)/app/contact/page.tsx:18:1
+Module not found: Can't resolve 'react-google-recaptcha'
+  16 |   DialogTitle,
+  17 | } from "@/components/ui/dialog"
+> 18 | import ReCAPTCHA from "react-google-recaptcha"
+     | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  19 |
+  20 | export default function ContactPage() {
+  21 |   const [formData, setFormData] = useState({
+
+Import traces:
+  Client Component Browser:
+    ./Downloads/New folder (4)/app/contact/page.tsx [Client Component Browser]
+    ./Downloads/New folder (4)/app/contact/page.tsx [Server Component]
+
+  Client Component SSR:
+    ./Downloads/New folder (4)/app/contact/page.tsx [Client Component SSR]
+    ./Downloads/New folder (4)/app/contact/page.tsx [Server Component]
+
+https://nextjs.org/docs/messages/module-not-found
+[00:00:26.920] Browser ERROR   ./Downloads/New folder (4)/app/contact/page.tsx:18:1
+Module not found: Can't resolve 'react-google-recaptcha'
+  16 |   DialogTitle,
+  17 | } from "@/components/ui/dialog"
+> 18 | import ReCAPTCHA from "react-google-recaptcha"
+     | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  19 |
+  20 | export default function ContactPage() {
+  21 |   const [formData, setFormData] = useState({
+
+Import traces:
+  Client Component Browser:
+    ./Downloads/New folder (4)/app/contact/page.tsx [Client Component Browser]
+    ./Downloads/New folder (4)/app/contact/page.tsx [Server Component]
+
+  Client Component SSR:
+    ./Downloads/New folder (4)/app/contact/page.tsx [Client Component SSR]
+    ./Downloads/New folder (4)/app/contact/page.tsx [Server Component]
+
+https://nextjs.org/docs/messages/module-not-found
+[00:00:27.064] Browser ERROR   ./Downloads/New folder (4)/app/contact/page.tsx:18:1
+Module not found: Can't resolve 'react-google-recaptcha'
+  16 |   DialogTitle,
+  17 | } from "@/components/ui/dialog"
+> 18 | import ReCAPTCHA from "react-google-recaptcha"
+     | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  19 |
+  20 | export default function ContactPage() {
+  21 |   const [formData, setFormData] = useState({
+
+Import traces:
+  Client Component Browser:
+    ./Downloads/New folder (4)/app/contact/page.tsx [Client Component Browser]
+    ./Downloads/New folder (4)/app/contact/page.tsx [Server Component]
+
+  Client Component SSR:
+    ./Downloads/New folder (4)/app/contact/page.tsx [Client Component SSR]
+    ./Downloads/New folder (4)/app/contact/page.tsx [Server Component]
+
+https://nextjs.org/docs/messages/module-not-found
+[00:00:27.239] Browser ERROR   uncaughtError: Error: ./Downloads/New folder (4)/app/contact/page.tsx:18:1
+Module not found: Can't resolve 'react-google-recaptcha'
+  16 |   DialogTitle,
+  17 | } from "@/components/ui/dialog"
+> 18 | import ReCAPTCHA from "react-google-recaptcha"
+     | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  19 |
+  20 | export default function ContactPage() {
+  21 |   const [formData, setFormData] = useState({
+
+
+
+Import traces:
+  Client Component Browser:
+    ./Downloads/New folder (4)/app/contact/page.tsx [Client Component Browser]
+    ./Downloads/New folder (4)/app/contact/page.tsx [Server Component]
+
+  Client Component SSR:
+    ./Downloads/New folder (4)/app/contact/page.tsx [Client Component SSR]
+    ./Downloads/New folder (4)/app/contact/page.tsx [Server Component]
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[00:00:27.399] Browser ERROR   ./Downloads/New folder (4)/app/contact/page.tsx:18:1
+Module not found: Can't resolve 'react-google-recaptcha'
+  16 |   DialogTitle,
+  17 | } from "@/components/ui/dialog"
+> 18 | import ReCAPTCHA from "react-google-recaptcha"
+     | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  19 |
+  20 | export default function ContactPage() {
+  21 |   const [formData, setFormData] = useState({
+
+Import traces:
+  Client Component Browser:
+    ./Downloads/New folder (4)/app/contact/page.tsx [Client Component Browser]
+    ./Downloads/New folder (4)/app/contact/page.tsx [Server Component]
+
+  Client Component SSR:
+    ./Downloads/New folder (4)/app/contact/page.tsx [Client Component SSR]
+    ./Downloads/New folder (4)/app/contact/page.tsx [Server Component]
+
+https://nextjs.org/docs/messages/module-not-found
+[00:00:27.505] Browser ERROR   ./Downloads/New folder (4)/app/contact/page.tsx:18:1
+Module not found: Can't resolve 'react-google-recaptcha'
+  16 |   DialogTitle,
+  17 | } from "@/components/ui/dialog"
+> 18 | import ReCAPTCHA from "react-google-recaptcha"
+     | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  19 |
+  20 | export default function ContactPage() {
+  21 |   const [formData, setFormData] = useState({
+
+Import traces:
+  Client Component Browser:
+    ./Downloads/New folder (4)/app/contact/page.tsx [Client Component Browser]
+    ./Downloads/New folder (4)/app/contact/page.tsx [Server Component]
+
+  Client Component SSR:
+    ./Downloads/New folder (4)/app/contact/page.tsx [Client Component SSR]
+    ./Downloads/New folder (4)/app/contact/page.tsx [Server Component]
+
+https://nextjs.org/docs/messages/module-not-found
+[00:00:27.549] Browser ERROR   ./Downloads/New folder (4)/app/contact/page.tsx:18:1
+Module not found: Can't resolve 'react-google-recaptcha'
+  16 |   DialogTitle,
+  17 | } from "@/components/ui/dialog"
+> 18 | import ReCAPTCHA from "react-google-recaptcha"
+     | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  19 |
+  20 | export default function ContactPage() {
+  21 |   const [formData, setFormData] = useState({
+
+Import traces:
+  Client Component Browser:
+    ./Downloads/New folder (4)/app/contact/page.tsx [Client Component Browser]
+    ./Downloads/New folder (4)/app/contact/page.tsx [Server Component]
+
+  Client Component SSR:
+    ./Downloads/New folder (4)/app/contact/page.tsx [Client Component SSR]
+    ./Downloads/New folder (4)/app/contact/page.tsx [Server Component]
+
+https://nextjs.org/docs/messages/module-not-found
+[00:00:28.258] Server  ERROR    ⨯ ./Downloads/New folder (4)/app/contact/page.tsx:18:1
+Module not found: Can't resolve 'react-google-recaptcha'
+  16 |   DialogTitle,
+  17 | } from "@/components/ui/dialog"
+> 18 | import ReCAPTCHA from "react-google-recaptcha"
+     | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  19 |
+  20 | export default function ContactPage() {
+  21 |   const [formData, setFormData] = useState({
+
+
+
+Import traces:
+  Client Component Browser:
+    ./Downloads/New folder (4)/app/contact/page.tsx [Client Component Browser]
+    ./Downloads/New folder (4)/app/contact/page.tsx [Server Component]
+
+  Client Component SSR:
+    ./Downloads/New folder (4)/app/contact/page.tsx [Client Component SSR]
+    ./Downloads/New folder (4)/app/contact/page.tsx [Server Component]
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[00:00:28.421] Browser ERROR   ./Downloads/New folder (4)/app/contact/page.tsx:18:1
+Module not found: Can't resolve 'react-google-recaptcha'
+  16 |   DialogTitle,
+  17 | } from "@/components/ui/dialog"
+> 18 | import ReCAPTCHA from "react-google-recaptcha"
+     | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  19 |
+  20 | export default function ContactPage() {
+  21 |   const [formData, setFormData] = useState({
+
+Import traces:
+  Client Component Browser:
+    ./Downloads/New folder (4)/app/contact/page.tsx [Client Component Browser]
+    ./Downloads/New folder (4)/app/contact/page.tsx [Server Component]
+
+  Client Component SSR:
+    ./Downloads/New folder (4)/app/contact/page.tsx [Client Component SSR]
+    ./Downloads/New folder (4)/app/contact/page.tsx [Server Component]
+
+https://nextjs.org/docs/messages/module-not-found
+[00:00:28.683] Browser ERROR   uncaughtError: Error: ./Downloads/New folder (4)/app/contact/page.tsx:18:1
+Module not found: Can't resolve 'react-google-recaptcha'
+  16 |   DialogTitle,
+  17 | } from "@/components/ui/dialog"
+> 18 | import ReCAPTCHA from "react-google-recaptcha"
+     | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  19 |
+  20 | export default function ContactPage() {
+  21 |   const [formData, setFormData] = useState({
+
+
+
+Import traces:
+  Client Component Browser:
+    ./Downloads/New folder (4)/app/contact/page.tsx [Client Component Browser]
+    ./Downloads/New folder (4)/app/contact/page.tsx [Server Component]
+
+  Client Component SSR:
+    ./Downloads/New folder (4)/app/contact/page.tsx [Client Component SSR]
+    ./Downloads/New folder (4)/app/contact/page.tsx [Server Component]
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[00:00:28.821] Browser ERROR   ./Downloads/New folder (4)/app/contact/page.tsx:18:1
+Module not found: Can't resolve 'react-google-recaptcha'
+  16 |   DialogTitle,
+  17 | } from "@/components/ui/dialog"
+> 18 | import ReCAPTCHA from "react-google-recaptcha"
+     | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  19 |
+  20 | export default function ContactPage() {
+  21 |   const [formData, setFormData] = useState({
+
+Import traces:
+  Client Component Browser:
+    ./Downloads/New folder (4)/app/contact/page.tsx [Client Component Browser]
+    ./Downloads/New folder (4)/app/contact/page.tsx [Server Component]
+
+  Client Component SSR:
+    ./Downloads/New folder (4)/app/contact/page.tsx [Client Component SSR]
+    ./Downloads/New folder (4)/app/contact/page.tsx [Server Component]
+
+https://nextjs.org/docs/messages/module-not-found
+[00:00:28.846] Browser ERROR   ./Downloads/New folder (4)/app/contact/page.tsx:18:1
+Module not found: Can't resolve 'react-google-recaptcha'
+  16 |   DialogTitle,
+  17 | } from "@/components/ui/dialog"
+> 18 | import ReCAPTCHA from "react-google-recaptcha"
+     | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  19 |
+  20 | export default function ContactPage() {
+  21 |   const [formData, setFormData] = useState({
+
+Import traces:
+  Client Component Browser:
+    ./Downloads/New folder (4)/app/contact/page.tsx [Client Component Browser]
+    ./Downloads/New folder (4)/app/contact/page.tsx [Server Component]
+
+  Client Component SSR:
+    ./Downloads/New folder (4)/app/contact/page.tsx [Client Component SSR]
+    ./Downloads/New folder (4)/app/contact/page.tsx [Server Component]
+
+https://nextjs.org/docs/messages/module-not-found
+[00:00:28.846] Browser ERROR   ./Downloads/New folder (4)/app/contact/page.tsx:18:1
+Module not found: Can't resolve 'react-google-recaptcha'
+  16 |   DialogTitle,
+  17 | } from "@/components/ui/dialog"
+> 18 | import ReCAPTCHA from "react-google-recaptcha"
+     | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  19 |
+  20 | export default function ContactPage() {
+  21 |   const [formData, setFormData] = useState({
+
+Import traces:
+  Client Component Browser:
+    ./Downloads/New folder (4)/app/contact/page.tsx [Client Component Browser]
+    ./Downloads/New folder (4)/app/contact/page.tsx [Server Component]
+
+  Client Component SSR:
+    ./Downloads/New folder (4)/app/contact/page.tsx [Client Component SSR]
+    ./Downloads/New folder (4)/app/contact/page.tsx [Server Component]
+
+https://nextjs.org/docs/messages/module-not-found
+[00:00:29.285] Browser ERROR   ./Downloads/New folder (4)/app/contact/page.tsx:18:1
+Module not found: Can't resolve 'react-google-recaptcha'
+  16 |   DialogTitle,
+  17 | } from "@/components/ui/dialog"
+> 18 | import ReCAPTCHA from "react-google-recaptcha"
+     | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  19 |
+  20 | export default function ContactPage() {
+  21 |   const [formData, setFormData] = useState({
+
+Import traces:
+  Client Component Browser:
+    ./Downloads/New folder (4)/app/contact/page.tsx [Client Component Browser]
+    ./Downloads/New folder (4)/app/contact/page.tsx [Server Component]
+
+  Client Component SSR:
+    ./Downloads/New folder (4)/app/contact/page.tsx [Client Component SSR]
+    ./Downloads/New folder (4)/app/contact/page.tsx [Server Component]
+
+https://nextjs.org/docs/messages/module-not-found
+[00:00:29.484] Browser ERROR   ./Downloads/New folder (4)/app/contact/page.tsx:18:1
+Module not found: Can't resolve 'react-google-recaptcha'
+  16 |   DialogTitle,
+  17 | } from "@/components/ui/dialog"
+> 18 | import ReCAPTCHA from "react-google-recaptcha"
+     | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  19 |
+  20 | export default function ContactPage() {
+  21 |   const [formData, setFormData] = useState({
+
+Import traces:
+  Client Component Browser:
+    ./Downloads/New folder (4)/app/contact/page.tsx [Client Component Browser]
+    ./Downloads/New folder (4)/app/contact/page.tsx [Server Component]
+
+  Client Component SSR:
+    ./Downloads/New folder (4)/app/contact/page.tsx [Client Component SSR]
+    ./Downloads/New folder (4)/app/contact/page.tsx [Server Component]
+
+https://nextjs.org/docs/messages/module-not-found
+[00:00:30.740] Browser ERROR   ./Downloads/New folder (4)/app/contact/page.tsx:18:1
+Module not found: Can't resolve 'react-google-recaptcha'
+  16 |   DialogTitle,
+  17 | } from "@/components/ui/dialog"
+> 18 | import ReCAPTCHA from "react-google-recaptcha"
+     | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  19 |
+  20 | export default function ContactPage() {
+  21 |   const [formData, setFormData] = useState({
+
+Import traces:
+  Client Component Browser:
+    ./Downloads/New folder (4)/app/contact/page.tsx [Client Component Browser]
+    ./Downloads/New folder (4)/app/contact/page.tsx [Server Component]
+
+  Client Component SSR:
+    ./Downloads/New folder (4)/app/contact/page.tsx [Client Component SSR]
+    ./Downloads/New folder (4)/app/contact/page.tsx [Server Component]
+
+https://nextjs.org/docs/messages/module-not-found
+[00:00:30.740] Browser ERROR   ./Downloads/New folder (4)/app/contact/page.tsx:18:1
+Module not found: Can't resolve 'react-google-recaptcha'
+  16 |   DialogTitle,
+  17 | } from "@/components/ui/dialog"
+> 18 | import ReCAPTCHA from "react-google-recaptcha"
+     | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  19 |
+  20 | export default function ContactPage() {
+  21 |   const [formData, setFormData] = useState({
+
+Import traces:
+  Client Component Browser:
+    ./Downloads/New folder (4)/app/contact/page.tsx [Client Component Browser]
+    ./Downloads/New folder (4)/app/contact/page.tsx [Server Component]
+
+  Client Component SSR:
+    ./Downloads/New folder (4)/app/contact/page.tsx [Client Component SSR]
+    ./Downloads/New folder (4)/app/contact/page.tsx [Server Component]
+
+https://nextjs.org/docs/messages/module-not-found
+[00:00:38.743] Server  ERROR    ⨯ ./Downloads/New folder (4)/app/contact/page.tsx:18:1
+Module not found: Can't resolve 'react-google-recaptcha'
+  16 |   DialogTitle,
+  17 | } from "@/components/ui/dialog"
+> 18 | import ReCAPTCHA from "react-google-recaptcha"
+     | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  19 |
+  20 | export default function ContactPage() {
+  21 |   const [formData, setFormData] = useState({
+
+
+
+Import traces:
+  Client Component Browser:
+    ./Downloads/New folder (4)/app/contact/page.tsx [Client Component Browser]
+    ./Downloads/New folder (4)/app/contact/page.tsx [Server Component]
+
+  Client Component SSR:
+    ./Downloads/New folder (4)/app/contact/page.tsx [Client Component SSR]
+    ./Downloads/New folder (4)/app/contact/page.tsx [Server Component]
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[00:00:38.982] Browser ERROR   ./Downloads/New folder (4)/app/contact/page.tsx:18:1
+Module not found: Can't resolve 'react-google-recaptcha'
+  16 |   DialogTitle,
+  17 | } from "@/components/ui/dialog"
+> 18 | import ReCAPTCHA from "react-google-recaptcha"
+     | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  19 |
+  20 | export default function ContactPage() {
+  21 |   const [formData, setFormData] = useState({
+
+Import traces:
+  Client Component Browser:
+    ./Downloads/New folder (4)/app/contact/page.tsx [Client Component Browser]
+    ./Downloads/New folder (4)/app/contact/page.tsx [Server Component]
+
+  Client Component SSR:
+    ./Downloads/New folder (4)/app/contact/page.tsx [Client Component SSR]
+    ./Downloads/New folder (4)/app/contact/page.tsx [Server Component]
+
+https://nextjs.org/docs/messages/module-not-found
+[00:00:38.982] Browser ERROR   ./Downloads/New folder (4)/app/contact/page.tsx:18:1
+Module not found: Can't resolve 'react-google-recaptcha'
+  16 |   DialogTitle,
+  17 | } from "@/components/ui/dialog"
+> 18 | import ReCAPTCHA from "react-google-recaptcha"
+     | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  19 |
+  20 | export default function ContactPage() {
+  21 |   const [formData, setFormData] = useState({
+
+Import traces:
+  Client Component Browser:
+    ./Downloads/New folder (4)/app/contact/page.tsx [Client Component Browser]
+    ./Downloads/New folder (4)/app/contact/page.tsx [Server Component]
+
+  Client Component SSR:
+    ./Downloads/New folder (4)/app/contact/page.tsx [Client Component SSR]
+    ./Downloads/New folder (4)/app/contact/page.tsx [Server Component]
+
+https://nextjs.org/docs/messages/module-not-found
+[00:00:39.275] Browser ERROR   uncaughtError: Error: ./Downloads/New folder (4)/app/contact/page.tsx:18:1
+Module not found: Can't resolve 'react-google-recaptcha'
+  16 |   DialogTitle,
+  17 | } from "@/components/ui/dialog"
+> 18 | import ReCAPTCHA from "react-google-recaptcha"
+     | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  19 |
+  20 | export default function ContactPage() {
+  21 |   const [formData, setFormData] = useState({
+
+
+
+Import traces:
+  Client Component Browser:
+    ./Downloads/New folder (4)/app/contact/page.tsx [Client Component Browser]
+    ./Downloads/New folder (4)/app/contact/page.tsx [Server Component]
+
+  Client Component SSR:
+    ./Downloads/New folder (4)/app/contact/page.tsx [Client Component SSR]
+    ./Downloads/New folder (4)/app/contact/page.tsx [Server Component]
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[00:00:39.446] Browser ERROR   ./Downloads/New folder (4)/app/contact/page.tsx:18:1
+Module not found: Can't resolve 'react-google-recaptcha'
+  16 |   DialogTitle,
+  17 | } from "@/components/ui/dialog"
+> 18 | import ReCAPTCHA from "react-google-recaptcha"
+     | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  19 |
+  20 | export default function ContactPage() {
+  21 |   const [formData, setFormData] = useState({
+
+Import traces:
+  Client Component Browser:
+    ./Downloads/New folder (4)/app/contact/page.tsx [Client Component Browser]
+    ./Downloads/New folder (4)/app/contact/page.tsx [Server Component]
+
+  Client Component SSR:
+    ./Downloads/New folder (4)/app/contact/page.tsx [Client Component SSR]
+    ./Downloads/New folder (4)/app/contact/page.tsx [Server Component]
+
+https://nextjs.org/docs/messages/module-not-found
+[00:00:39.501] Browser ERROR   ./Downloads/New folder (4)/app/contact/page.tsx:18:1
+Module not found: Can't resolve 'react-google-recaptcha'
+  16 |   DialogTitle,
+  17 | } from "@/components/ui/dialog"
+> 18 | import ReCAPTCHA from "react-google-recaptcha"
+     | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  19 |
+  20 | export default function ContactPage() {
+  21 |   const [formData, setFormData] = useState({
+
+Import traces:
+  Client Component Browser:
+    ./Downloads/New folder (4)/app/contact/page.tsx [Client Component Browser]
+    ./Downloads/New folder (4)/app/contact/page.tsx [Server Component]
+
+  Client Component SSR:
+    ./Downloads/New folder (4)/app/contact/page.tsx [Client Component SSR]
+    ./Downloads/New folder (4)/app/contact/page.tsx [Server Component]
+
+https://nextjs.org/docs/messages/module-not-found
+[00:00:39.501] Browser ERROR   ./Downloads/New folder (4)/app/contact/page.tsx:18:1
+Module not found: Can't resolve 'react-google-recaptcha'
+  16 |   DialogTitle,
+  17 | } from "@/components/ui/dialog"
+> 18 | import ReCAPTCHA from "react-google-recaptcha"
+     | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  19 |
+  20 | export default function ContactPage() {
+  21 |   const [formData, setFormData] = useState({
+
+Import traces:
+  Client Component Browser:
+    ./Downloads/New folder (4)/app/contact/page.tsx [Client Component Browser]
+    ./Downloads/New folder (4)/app/contact/page.tsx [Server Component]
+
+  Client Component SSR:
+    ./Downloads/New folder (4)/app/contact/page.tsx [Client Component SSR]
+    ./Downloads/New folder (4)/app/contact/page.tsx [Server Component]
+
+https://nextjs.org/docs/messages/module-not-found
+[00:00:41.392] Server  ERROR    ⨯ ./Downloads/New folder (4)/app/contact/page.tsx:18:1
+Module not found: Can't resolve 'react-google-recaptcha'
+  16 |   DialogTitle,
+  17 | } from "@/components/ui/dialog"
+> 18 | import ReCAPTCHA from "react-google-recaptcha"
+     | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  19 |
+  20 | export default function ContactPage() {
+  21 |   const [formData, setFormData] = useState({
+
+
+
+Import traces:
+  Client Component Browser:
+    ./Downloads/New folder (4)/app/contact/page.tsx [Client Component Browser]
+    ./Downloads/New folder (4)/app/contact/page.tsx [Server Component]
+
+  Client Component SSR:
+    ./Downloads/New folder (4)/app/contact/page.tsx [Client Component SSR]
+    ./Downloads/New folder (4)/app/contact/page.tsx [Server Component]
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[00:00:41.440] Server  ERROR    ⨯ ./Downloads/New folder (4)/app/contact/page.tsx:18:1
+Module not found: Can't resolve 'react-google-recaptcha'
+  16 |   DialogTitle,
+  17 | } from "@/components/ui/dialog"
+> 18 | import ReCAPTCHA from "react-google-recaptcha"
+     | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  19 |
+  20 | export default function ContactPage() {
+  21 |   const [formData, setFormData] = useState({
+
+
+
+Import traces:
+  Client Component Browser:
+    ./Downloads/New folder (4)/app/contact/page.tsx [Client Component Browser]
+    ./Downloads/New folder (4)/app/contact/page.tsx [Server Component]
+
+  Client Component SSR:
+    ./Downloads/New folder (4)/app/contact/page.tsx [Client Component SSR]
+    ./Downloads/New folder (4)/app/contact/page.tsx [Server Component]
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[00:00:41.477] Server  ERROR    ⨯ ./Downloads/New folder (4)/app/contact/page.tsx:18:1
+Module not found: Can't resolve 'react-google-recaptcha'
+  16 |   DialogTitle,
+  17 | } from "@/components/ui/dialog"
+> 18 | import ReCAPTCHA from "react-google-recaptcha"
+     | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  19 |
+  20 | export default function ContactPage() {
+  21 |   const [formData, setFormData] = useState({
+
+
+
+Import traces:
+  Client Component Browser:
+    ./Downloads/New folder (4)/app/contact/page.tsx [Client Component Browser]
+    ./Downloads/New folder (4)/app/contact/page.tsx [Server Component]
+
+  Client Component SSR:
+    ./Downloads/New folder (4)/app/contact/page.tsx [Client Component SSR]
+    ./Downloads/New folder (4)/app/contact/page.tsx [Server Component]
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[00:00:41.518] Server  ERROR    ⨯ ./Downloads/New folder (4)/app/contact/page.tsx:18:1
+Module not found: Can't resolve 'react-google-recaptcha'
+  16 |   DialogTitle,
+  17 | } from "@/components/ui/dialog"
+> 18 | import ReCAPTCHA from "react-google-recaptcha"
+     | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  19 |
+  20 | export default function ContactPage() {
+  21 |   const [formData, setFormData] = useState({
+
+
+
+Import traces:
+  Client Component Browser:
+    ./Downloads/New folder (4)/app/contact/page.tsx [Client Component Browser]
+    ./Downloads/New folder (4)/app/contact/page.tsx [Server Component]
+
+  Client Component SSR:
+    ./Downloads/New folder (4)/app/contact/page.tsx [Client Component SSR]
+    ./Downloads/New folder (4)/app/contact/page.tsx [Server Component]
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[00:00:41.594] Browser ERROR   ./Downloads/New folder (4)/app/contact/page.tsx:18:1
+Module not found: Can't resolve 'react-google-recaptcha'
+  16 |   DialogTitle,
+  17 | } from "@/components/ui/dialog"
+> 18 | import ReCAPTCHA from "react-google-recaptcha"
+     | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  19 |
+  20 | export default function ContactPage() {
+  21 |   const [formData, setFormData] = useState({
+
+Import traces:
+  Client Component Browser:
+    ./Downloads/New folder (4)/app/contact/page.tsx [Client Component Browser]
+    ./Downloads/New folder (4)/app/contact/page.tsx [Server Component]
+
+  Client Component SSR:
+    ./Downloads/New folder (4)/app/contact/page.tsx [Client Component SSR]
+    ./Downloads/New folder (4)/app/contact/page.tsx [Server Component]
+
+https://nextjs.org/docs/messages/module-not-found
+[00:00:41.603] Browser ERROR   ./Downloads/New folder (4)/app/contact/page.tsx:18:1
+Module not found: Can't resolve 'react-google-recaptcha'
+  16 |   DialogTitle,
+  17 | } from "@/components/ui/dialog"
+> 18 | import ReCAPTCHA from "react-google-recaptcha"
+     | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  19 |
+  20 | export default function ContactPage() {
+  21 |   const [formData, setFormData] = useState({
+
+Import traces:
+  Client Component Browser:
+    ./Downloads/New folder (4)/app/contact/page.tsx [Client Component Browser]
+    ./Downloads/New folder (4)/app/contact/page.tsx [Server Component]
+
+  Client Component SSR:
+    ./Downloads/New folder (4)/app/contact/page.tsx [Client Component SSR]
+    ./Downloads/New folder (4)/app/contact/page.tsx [Server Component]
+
+https://nextjs.org/docs/messages/module-not-found
+[00:00:41.688] Browser ERROR   ./node_modules/react-google-recaptcha/package.json:1:1
+Error parsing package.json file
+> 1 |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        
+    | ^
+
+package.json is not parseable: invalid JSON: expected value at line 1 column 1
+[00:00:41.688] Browser ERROR   ./Downloads/New folder (4)/app/contact/page.tsx:18:1
+Module not found: Can't resolve 'react-google-recaptcha'
+  16 |   DialogTitle,
+  17 | } from "@/components/ui/dialog"
+> 18 | import ReCAPTCHA from "react-google-recaptcha"
+     | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  19 |
+  20 | export default function ContactPage() {
+  21 |   const [formData, setFormData] = useState({
+
+Import traces:
+  Client Component Browser:
+    ./Downloads/New folder (4)/app/contact/page.tsx [Client Component Browser]
+    ./Downloads/New folder (4)/app/contact/page.tsx [Server Component]
+
+  Client Component SSR:
+    ./Downloads/New folder (4)/app/contact/page.tsx [Client Component SSR]
+    ./Downloads/New folder (4)/app/contact/page.tsx [Server Component]
+
+https://nextjs.org/docs/messages/module-not-found
+[00:00:41.843] Browser ERROR   ./node_modules/react-google-recaptcha/package.json:1:1
+Error parsing package.json file
+> 1 |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        
+    | ^
+
+package.json is not parseable: invalid JSON: expected value at line 1 column 1
+[00:00:41.843] Browser ERROR   ./Downloads/New folder (4)/app/contact/page.tsx:18:1
+Module not found: Can't resolve 'react-google-recaptcha'
+  16 |   DialogTitle,
+  17 | } from "@/components/ui/dialog"
+> 18 | import ReCAPTCHA from "react-google-recaptcha"
+     | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  19 |
+  20 | export default function ContactPage() {
+  21 |   const [formData, setFormData] = useState({
+
+Import traces:
+  Client Component Browser:
+    ./Downloads/New folder (4)/app/contact/page.tsx [Client Component Browser]
+    ./Downloads/New folder (4)/app/contact/page.tsx [Server Component]
+
+  Client Component SSR:
+    ./Downloads/New folder (4)/app/contact/page.tsx [Client Component SSR]
+    ./Downloads/New folder (4)/app/contact/page.tsx [Server Component]
+
+https://nextjs.org/docs/messages/module-not-found
+[00:00:44.410] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:00:44.582] Browser LOG     %c[Vercel Web Analytics]%c Debug mode is enabled by default in development. No requests will be sent to the server. color: rgb(120, 120, 120) color: inherit
+[00:00:44.582] Browser LOG     %c[Vercel Web Analytics]%c Running queued event color: rgb(120, 120, 120) color: inherit pageview {"path":"/contact","route":"/contact"}
+[00:00:44.582] Browser LOG     %c[Vercel Web Analytics]%c [pageview] http://localhost:3000/contact color: rgb(120, 120, 120) color: inherit {"dp":"/contact","o":"http://localhost:3000/contact","sdkn":"@vercel/analytics/next","sdkv":"1.6.1","sv":"0.1.3","ts":1765435214217}
+[00:01:34.070] Browser WARN    Detected `scroll-behavior: smooth` on the `<html>` element. To disable smooth scrolling during route transitions, add `data-scroll-behavior="smooth"` to your <html> element. Learn more: https://nextjs.org/docs/messages/missing-data-scroll-behavior
+[00:01:34.070] Browser LOG     %c[Vercel Web Analytics]%c [pageview] http://localhost:3000/ color: rgb(120, 120, 120) color: inherit {"dp":"/","o":"http://localhost:3000/","sdkn":"@vercel/analytics/next","sdkv":"1.6.1","sv":"0.1.3","ts":1765435263702}
+[00:01:36.109] Browser LOG     %c[Vercel Web Analytics]%c [pageview] http://localhost:3000/contact color: rgb(120, 120, 120) color: inherit {"dp":"/contact","o":"http://localhost:3000/contact","sdkn":"@vercel/analytics/next","sdkv":"1.6.1","sv":"0.1.3","ts":1765435265733}
+[00:01:38.960] Browser LOG     %c[Vercel Web Analytics]%c [pageview] http://localhost:3000/features color: rgb(120, 120, 120) color: inherit {"dp":"/features","o":"http://localhost:3000/features","sdkn":"@vercel/analytics/next","sdkv":"1.6.1","sv":"0.1.3","ts":1765435268593}
+[00:01:43.115] Browser LOG     %c[Vercel Web Analytics]%c [pageview] http://localhost:3000/pricing color: rgb(120, 120, 120) color: inherit {"dp":"/pricing","o":"http://localhost:3000/pricing","sdkn":"@vercel/analytics/next","sdkv":"1.6.1","sv":"0.1.3","ts":1765435272734}
+[00:01:44.202] Browser LOG     %c[Vercel Web Analytics]%c [pageview] http://localhost:3000/contact color: rgb(120, 120, 120) color: inherit {"dp":"/contact","o":"http://localhost:3000/contact","sdkn":"@vercel/analytics/next","sdkv":"1.6.1","sv":"0.1.3","ts":1765435273830}
+[00:01:45.691] Browser LOG     %c[Vercel Web Analytics]%c [pageview] http://localhost:3000/pricing color: rgb(120, 120, 120) color: inherit {"dp":"/pricing","o":"http://localhost:3000/pricing","sdkn":"@vercel/analytics/next","sdkv":"1.6.1","sv":"0.1.3","ts":1765435275318}
+[00:01:46.712] Browser LOG     %c[Vercel Web Analytics]%c [pageview] http://localhost:3000/contact color: rgb(120, 120, 120) color: inherit {"dp":"/contact","o":"http://localhost:3000/contact","sdkn":"@vercel/analytics/next","sdkv":"1.6.1","sv":"0.1.3","ts":1765435276341}
+[00:01:48.076] Browser LOG     %c[Vercel Web Analytics]%c [pageview] http://localhost:3000/pricing color: rgb(120, 120, 120) color: inherit {"dp":"/pricing","o":"http://localhost:3000/pricing","sdkn":"@vercel/analytics/next","sdkv":"1.6.1","sv":"0.1.3","ts":1765435277700}
+[00:01:49.040] Browser LOG     %c[Vercel Web Analytics]%c [pageview] http://localhost:3000/contact color: rgb(120, 120, 120) color: inherit {"dp":"/contact","o":"http://localhost:3000/contact","sdkn":"@vercel/analytics/next","sdkv":"1.6.1","sv":"0.1.3","ts":1765435278668}

@@ -3,6 +3,7 @@ import { Card } from "@/components/ui/card"
 import { Button } from "@/components/ui/button"
 import { Code, BookOpen, GitBranch } from "lucide-react"
 import { Tabs, TabsContent, TabsList, TabsTrigger } from "@/components/ui/tabs"
+import Link from "next/link"
 
 export default function DevelopersPage() {
   const sdks = ["PHP", "Node.js", "Python", ".NET", "Java", "Flutter", "React"]
@@ -102,7 +103,7 @@ await client.auth.register({
 });`}
                   </pre>
 
-                  <Button>View Full Documentation</Button>
+                  {/* <Button>View Full Documentation</Button> */}
                 </Card>
               </TabsContent>
             ))}
@@ -125,9 +126,11 @@ await client.auth.register({
                   </div>
                   <h3 className="text-xl font-semibold mb-2">{resource.title}</h3>
                   <p className="text-muted-foreground mb-6">{resource.description}</p>
-                  <Button variant="outline" size="sm">
-                    Learn More
-                  </Button>
+                  <Link href="/contact">
+                    <Button variant="outline" size="sm">
+                      Learn More
+                    </Button>
+                  </Link>
                 </Card>
               )
             })}
@@ -144,7 +147,9 @@ await client.auth.register({
               <p className="text-lg text-muted-foreground mb-8">
                 Test API endpoints without creating a real account. Perfect for learning and prototyping.
               </p>
-              <Button size="lg">Access Sandbox</Button>
+              <Link href="/contact">
+                <Button size="lg">Access Sandbox</Button>
+              </Link>
             </div>
             <div className="rounded-2xl overflow-hidden border border-border shadow-lg">
               <Image
@@ -159,29 +164,7 @@ await client.auth.register({
         </div>
       </section>
 
-      {/* Community */}
-      <section className="py-16 md:py-24 bg-secondary text-secondary-foreground">
-        <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 text-center">
-          <h2 className="text-3xl md:text-4xl font-bold mb-6">Join Our Community</h2>
-          <p className="text-lg opacity-90 mb-8 max-w-2xl mx-auto">
-            Connect with other developers, share best practices, and get help from our team.
-          </p>
-          <div className="flex flex-col sm:flex-row gap-4 justify-center">
-            <Button
-              variant="outline"
-              className="border-secondary-foreground text-secondary-foreground hover:bg-secondary-foreground/10 bg-transparent"
-            >
-              Join Discord
-            </Button>
-            <Button
-              variant="outline"
-              className="border-secondary-foreground text-secondary-foreground hover:bg-secondary-foreground/10 bg-transparent"
-            >
-              Follow on Twitter
-            </Button>
-          </div>
-        </div>
-      </section>
+
     </>
   )
 }

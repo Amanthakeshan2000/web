@@ -172,9 +172,9 @@ export default function FeaturesPage() {
         <div className="max-w-2xl mx-auto px-4 sm:px-6 lg:px-8">
           <h2 className="text-3xl md:text-4xl font-bold mb-4">See It in Action</h2>
           <p className="text-lg opacity-90 mb-8">Explore our interactive sandbox and test the API</p>
-          <Button size="lg" variant="secondary">
+          {/* <Button size="lg" variant="secondary">
             Explore Sandbox
-          </Button>
+          </Button> */}
         </div>
       </section>
     </>

@@ -2,7 +2,7 @@
 
 import type React from "react"
 
-import { useState } from "react"
+import { useState, useRef } from "react"
 import { Card } from "@/components/ui/card"
 import { Button } from "@/components/ui/button"
 import { Input } from "@/components/ui/input"
@@ -15,6 +15,7 @@ import {
   DialogHeader,
   DialogTitle,
 } from "@/components/ui/dialog"
+import ReCAPTCHA from "react-google-recaptcha"
 
 export default function ContactPage() {
   const [formData, setFormData] = useState({
@@ -24,16 +25,32 @@ export default function ContactPage() {
     message: "",
   })
   const [showSuccess, setShowSuccess] = useState(false)
+  const [captchaToken, setCaptchaToken] = useState<string | null>(null)
+  const recaptchaRef = useRef<ReCAPTCHA>(null)
+
+  const handleCaptchaChange = (token: string | null) => {
+    setCaptchaToken(token)
+  }
 
   const handleSubmit = (e: React.FormEvent) => {
     e.preventDefault()
-    console.log("Form submitted:", formData)
+    
+    if (!captchaToken) {
+      alert("Please complete the reCAPTCHA verification")
+      return
+    }
+    
+    console.log("Form submitted:", formData, "Captcha token:", captchaToken)
     
     // Show success dialog
     setShowSuccess(true)
     
     // Clear form
     setFormData({ name: "", email: "", subject: "", message: "" })
+    setCaptchaToken(null)
+    
+    // Reset reCAPTCHA
+    recaptchaRef.current?.reset()
   }
 
   return (
@@ -114,7 +131,15 @@ export default function ContactPage() {
                   />
                 </div>
 
-                <Button type="submit" size="lg" className="w-full">
+                <div className="flex justify-center">
+                  <ReCAPTCHA
+                    ref={recaptchaRef}
+                    sitekey="6LeIxAcTAAAAAJcZVRqyHh71UMIEGNQ_MXjiZKhI"
+                    onChange={handleCaptchaChange}
+                  />
+                </div>
+
+                <Button type="submit" size="lg" className="w-full" disabled={!captchaToken}>
                   Send Message
                 </Button>
               </form>

@@ -2,6 +2,7 @@ import { Card } from "@/components/ui/card"
 import { Button } from "@/components/ui/button"
 import { Check, X } from "lucide-react"
 import { Accordion, AccordionContent, AccordionItem, AccordionTrigger } from "@/components/ui/accordion"
+import Link from "next/link"
 
 export default function PricingPage() {
   const plans = [
@@ -110,9 +111,11 @@ export default function PricingPage() {
                   {plan.price !== "Custom" && <span className="text-muted-foreground">/month</span>}
                 </div>
 
-                <Button size="lg" className="w-full mb-8" variant={plan.highlighted ? "default" : "outline"}>
-                  {plan.cta}
-                </Button>
+                <Link href="/contact" className="w-full">
+                  <Button size="lg" className="w-full mb-8" variant={plan.highlighted ? "default" : "outline"}>
+                    {plan.cta}
+                  </Button>
+                </Link>
 
                 <div className="space-y-4 flex-1">
                   {plan.features.map((feature, j) => (
@@ -153,9 +156,11 @@ export default function PricingPage() {
         <div className="max-w-2xl mx-auto px-4 sm:px-6 lg:px-8">
           <h2 className="text-3xl md:text-4xl font-bold mb-4">Not Sure Which Plan?</h2>
           <p className="text-lg opacity-90 mb-8">Start with Free Tier. No credit card required.</p>
-          <Button size="lg" variant="secondary">
-            Get Started Free
-          </Button>
+          <Link href="/contact">
+            <Button size="lg" variant="secondary">
+              Get Started Free
+            </Button>
+          </Link>
         </div>
       </section>
     </>

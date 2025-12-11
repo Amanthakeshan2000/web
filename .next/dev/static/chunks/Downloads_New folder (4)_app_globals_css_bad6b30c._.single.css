@@ -1712,10 +1712,6 @@
     border-color: var(--primary-foreground);
   }
 
-  .border-secondary-foreground {
-    border-color: var(--secondary-foreground);
-  }
-
   .border-sidebar-border {
     border-color: var(--sidebar-border);
   }
@@ -1758,16 +1754,6 @@
     background-color: var(--background);
   }
 
-  .bg-background\/50 {
-    background-color: var(--background);
-  }
-
-  @supports (color: color-mix(in lab, red, red)) {
-    .bg-background\/50 {
-      background-color: color-mix(in oklab, var(--background) 50%, transparent);
-    }
-  }
-
   .bg-background\/95 {
     background-color: var(--background);
   }
@@ -1775,16 +1761,6 @@
   @supports (color: color-mix(in lab, red, red)) {
     .bg-background\/95 {
       background-color: color-mix(in oklab, var(--background) 95%, transparent);
-    }
-  }
-
-  .bg-black\/40 {
-    background-color: #0006;
-  }
-
-  @supports (color: color-mix(in lab, red, red)) {
-    .bg-black\/40 {
-      background-color: color-mix(in oklab, var(--color-black) 40%, transparent);
     }
   }
 
@@ -1805,16 +1781,6 @@
   @supports (color: color-mix(in lab, red, red)) {
     .bg-blue-100\/80 {
       background-color: color-mix(in oklab, var(--color-blue-100) 80%, transparent);
-    }
-  }
-
-  .bg-blue-600\/90 {
-    background-color: #155dfce6;
-  }
-
-  @supports (color: color-mix(in lab, red, red)) {
-    .bg-blue-600\/90 {
-      background-color: color-mix(in oklab, var(--color-blue-600) 90%, transparent);
     }
   }
 
@@ -1924,16 +1890,6 @@
     }
   }
 
-  .bg-white\/70 {
-    background-color: #ffffffb3;
-  }
-
-  @supports (color: color-mix(in lab, red, red)) {
-    .bg-white\/70 {
-      background-color: color-mix(in oklab, var(--color-white) 70%, transparent);
-    }
-  }
-
   .bg-gradient-to-br {
     --tw-gradient-position: to bottom right in oklab;
     background-image: linear-gradient(var(--tw-gradient-stops));
@@ -1944,20 +1900,12 @@
     background-image: linear-gradient(var(--tw-gradient-stops));
   }
 
-  .bg-\[radial-gradient\(circle_at_bottom_left\,rgba\(186\,230\,253\,0\.3\)\,transparent_50\%\)\] {
-    background-image: radial-gradient(circle at 0 100%, #bae6fd4d, #0000 50%);
-  }
-
   .bg-\[radial-gradient\(circle_at_bottom_right\,rgba\(255\,255\,255\,0\.05\)\,transparent_50\%\)\] {
     background-image: radial-gradient(circle at 100% 100%, #ffffff0d, #0000 50%);
   }
 
   .bg-\[radial-gradient\(circle_at_top_left\,rgba\(255\,255\,255\,0\.08\)\,transparent_50\%\)\] {
     background-image: radial-gradient(circle at 0 0, #ffffff14, #0000 50%);
-  }
-
-  .bg-\[radial-gradient\(circle_at_top_right\,rgba\(147\,197\,253\,0\.3\)\,transparent_50\%\)\] {
-    background-image: radial-gradient(circle at 100% 0, #93c5fd4d, #0000 50%);
   }
 
   .from-blue-50 {
@@ -3317,18 +3265,6 @@
   @media (hover: hover) {
     .hover\:bg-secondary:hover {
       background-color: var(--secondary);
-    }
-  }
-
-  @media (hover: hover) {
-    .hover\:bg-secondary-foreground\/10:hover {
-      background-color: var(--secondary-foreground);
-    }
-
-    @supports (color: color-mix(in lab, red, red)) {
-      .hover\:bg-secondary-foreground\/10:hover {
-        background-color: color-mix(in oklab, var(--secondary-foreground) 10%, transparent);
-      }
     }
   }
 
@@ -4987,26 +4923,6 @@
     border-color: var(--input);
   }
 
-  .dark\:bg-black\/60:is(.dark *) {
-    background-color: #0009;
-  }
-
-  @supports (color: color-mix(in lab, red, red)) {
-    .dark\:bg-black\/60:is(.dark *) {
-      background-color: color-mix(in oklab, var(--color-black) 60%, transparent);
-    }
-  }
-
-  .dark\:bg-black\/70:is(.dark *) {
-    background-color: #000000b3;
-  }
-
-  @supports (color: color-mix(in lab, red, red)) {
-    .dark\:bg-black\/70:is(.dark *) {
-      background-color: color-mix(in oklab, var(--color-black) 70%, transparent);
-    }
-  }
-
   .dark\:bg-blue-900\/30:is(.dark *) {
     background-color: #1c398e4d;
   }
@@ -5049,14 +4965,6 @@
 
   .dark\:bg-transparent:is(.dark *) {
     background-color: #0000;
-  }
-
-  .dark\:bg-\[radial-gradient\(circle_at_bottom_left\,rgba\(56\,189\,248\,0\.2\)\,transparent_50\%\)\]:is(.dark *) {
-    background-image: radial-gradient(circle at 0 100%, #38bdf833, #0000 50%);
-  }
-
-  .dark\:bg-\[radial-gradient\(circle_at_top_right\,rgba\(59\,130\,246\,0\.2\)\,transparent_50\%\)\]:is(.dark *) {
-    background-image: radial-gradient(circle at 100% 0, #3b82f633, #0000 50%);
   }
 
   .dark\:from-blue-950\/20:is(.dark *) {

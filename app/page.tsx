@@ -1,6 +1,7 @@
 import { Button } from "@/components/ui/button"
 import { Card } from "@/components/ui/card"
 import { Zap, Shield, Users } from "lucide-react"
+import Link from "next/link"
 
 export default function Home() {
   const benefits = [
@@ -164,13 +165,15 @@ export default function Home() {
             {/* <Button size="lg" variant="secondary">
               Request API Key
             </Button> */}
-            <Button
-              size="lg"
-              variant="outline"
-              className="border-primary-foreground text-primary-foreground hover:bg-primary-foreground/10 bg-transparent"
-            >
-              Contact Support
-            </Button>
+            <Link href="/contact">
+              <Button
+                size="lg"
+                variant="outline"
+                className="border-primary-foreground text-primary-foreground hover:bg-primary-foreground/10 bg-transparent"
+              >
+                Contact Support
+              </Button>
+            </Link>
           </div>
         </div>
       </section>
