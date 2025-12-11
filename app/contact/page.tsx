@@ -38,34 +38,7 @@ export default function ContactPage() {
       {/* Contact Methods */}
       <section className="py-16 md:py-24">
         <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
-          <div className="grid grid-cols-1 md:grid-cols-3 gap-8 mb-12">
-            <Card className="p-6 sm:p-8 flex flex-col items-center justify-center text-center hover:shadow-lg transition-shadow">
-              <div className="w-12 h-12 bg-primary/10 rounded-full flex items-center justify-center mb-4">
-                <Mail className="w-6 h-6 text-primary" />
-              </div>
-              <h3 className="font-semibold mb-2">Email</h3>
-              <p className="text-muted-foreground break-words">info@sureid.live</p>
-              <p className="text-sm text-muted-foreground mt-2">We typically respond in 24 hours</p>
-            </Card>
-
-            {/* <Card className="p-8 text-center hover:shadow-lg transition-shadow">
-              <div className="w-12 h-12 bg-primary/10 rounded-full flex items-center justify-center mx-auto mb-4">
-                <MessageSquare className="w-6 h-6 text-primary" />
-              </div>
-              <h3 className="font-semibold mb-2">Live Chat</h3>
-              <p className="text-muted-foreground">Chat with our team</p>
-              <p className="text-sm text-muted-foreground mt-2">Available during business hours</p>
-            </Card> */}
-
-            {/* <Card className="p-8 text-center hover:shadow-lg transition-shadow">
-              <div className="w-12 h-12 bg-primary/10 rounded-full flex items-center justify-center mx-auto mb-4">
-                <Phone className="w-6 h-6 text-primary" />
-              </div>
-              <h3 className="font-semibold mb-2">Phone</h3>
-              <p className="text-muted-foreground">+1 (555) 123-4567</p>
-              <p className="text-sm text-muted-foreground mt-2">Enterprise support available</p>
-            </Card> */}
-          </div>
+      
 
           {/* Contact Form */}
           <div className="max-w-2xl mx-auto">
